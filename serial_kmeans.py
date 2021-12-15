@@ -2,16 +2,17 @@ from numpy.lib.function_base import append
 from get_data import get_data
 from mpi4py import MPI
 from scipy.spatial import distance
+from sklearn.cluster import kmeans_plusplus
 import numpy as np
 import time
 import csv
 
 
+
 def serial_kmeans(x, k, max_iter=300, tol=1e-4):
     
     # Randomly detemine centroids
-    idx = np.random.choice(len(x), k, replace=False)
-    centroids_old = x[idx, :]
+    centroids_old, idx = kmeans_plusplus(x, k) 
     # Calculate distance from centroids
     dist = distance.cdist(x, centroids_old, 'euclidean')
 
@@ -26,8 +27,9 @@ def serial_kmeans(x, k, max_iter=300, tol=1e-4):
         for i in range(k):
             temp_cent = x[labels == i].mean(axis=0)
             centroids_new.append(temp_cent)
-
         centroids_new = np.vstack(centroids_new)
+        
+        print(centroids_new)
 
         diff = np.linalg.norm(centroids_new-centroids_old)
         dist = distance.cdist(x, centroids_new, 'euclidean')
