@@ -1,16 +1,17 @@
+from numpy.lib.function_base import append
 from get_data import get_data
 from mpi4py import MPI
 from scipy.spatial import distance
 import numpy as np
 import time
+import csv
 
 
-def serial_kmeans(x, k, true_labels, max_iter=300, tol=1e-4):
-    t0 = time.time()
+def serial_kmeans(x, k, max_iter=300, tol=1e-4):
+    
     # Randomly detemine centroids
     idx = np.random.choice(len(x), k, replace=False)
     centroids_old = x[idx, :]
-    centroid_labels = true_labels[idx]
     # Calculate distance from centroids
     dist = distance.cdist(x, centroids_old, 'euclidean')
 
@@ -34,23 +35,28 @@ def serial_kmeans(x, k, true_labels, max_iter=300, tol=1e-4):
 
         # Successfully converged
         if(diff < tol):
-            t_final = time.time()
-            print('Time Elapsed: %.2f seconds.' % (t_final-t0))
             print(
                 f"Converged Successfully in {iteration} iterations. Diff = {diff}")
-            return centroids_new, np.array(list(map(lambda x: centroid_labels[x], labels)))
+            return 1
 
         centroids_old = centroids_new
 
     print("Reached max iterations")
-    return None, None
+    return 0
 
 
 if __name__ == "__main__":
     data, labels, k = get_data()
-    centroids, calc_labels = serial_kmeans(data, k, labels)
-    correct = np.sum(labels == calc_labels)
-    accuracy = correct / data.shape[0] * 100
-    print(f'{correct} of {data.shape[0]} correctly labeled points')
-    print(f'Accuracy= %{accuracy}')
+    n = data.shape[0]
+    t0 = time.time()
+    converged = serial_kmeans(data, k)
+    t_final = time.time()
+    
+    t_total = t_final - t0
+    print('Time Elapsed: %.2f seconds.' % (t_total))
+    
+    with open(r'serial_kmeans_results.txt', 'a', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerow([n, t_total, converged])
+        
 
