@@ -6,7 +6,6 @@ from scipy.spatial import distance
 import numpy as np
 import time
 import csv
-from os.path import exists
 from sklearn.cluster import kmeans_plusplus
 
 
@@ -121,14 +120,9 @@ if(rank == root):
     else:
         print("Reached max iterations")
     print('Time Elapsed: %.5f seconds.' % (t_total))
-    
-    if not exists('parallel_kmeans_results.csv'):
-        with open(r'parallel_kmeans_results.csv', 'a', newline='') as f:
-            writer = csv.writer(f)
-            writer.writerow(['procs', 'n', 'time', 'iters', 'converged'])
 
-    with open(r'parallel_kmeans_results.csv', 'a', newline='') as f:
+    with open(r'parallel_kmeans_results.txt', 'a', newline='') as f:
         writer = csv.writer(f)
-        writer.writerow([num_procs, data.shape[0], t_total, iters, converged])
+        writer.writerow([data.shape[0], t_total, converged])
         
 
