@@ -1,6 +1,8 @@
 # parallel-kmeans
 An implementation and analysis of different K-Means methods on distributed systems in python. 
 
+[Clustering_on_Clusters.pdf contains the final report of this work](https://github.com/nicholaslivingstone/parallel-kmeans/blob/main/Clustering_on_Clusters.pdf)
+
 [Data Source Used](https://github.com/gagolews/clustering_benchmarks_v1)
 
 ## Requirements 
