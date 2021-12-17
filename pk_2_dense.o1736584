@@ -1,0 +1,714 @@
+Wheeler Portable Batch System Prologue
+Job Id: 1736584.wheeler-sn.alliance.unm.edu
+Username: neliving
+Job 1736584.wheeler-sn.alliance.unm.edu running on nodes:
+wheeler143 
+
+prologue running on host: wheeler143
+
+Matrix Name:  dense
+Processes:      
+Matrix Path:    ./data/graves
+
+Running program for 100 iterations.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00334 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00336 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00245 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00199 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00300 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00293 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00252 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00248 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00239 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00299 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00633 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00200 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00205 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00218 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00247 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00238 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 2 iterations
+Time Elapsed: 0.00188 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 2 iterations
+Time Elapsed: 0.00148 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00208 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00294 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 2 iterations
+Time Elapsed: 0.00166 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00192 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00195 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 2 iterations
+Time Elapsed: 0.00157 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00217 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00290 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00196 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 6 iterations
+Time Elapsed: 0.00349 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00299 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00206 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00192 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00402 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00296 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00193 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00587 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00258 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00356 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00302 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00247 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 6 iterations
+Time Elapsed: 0.00343 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00477 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00391 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00350 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00283 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00297 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00304 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00311 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00213 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00301 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00299 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00313 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00317 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00287 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00338 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00452 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00278 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00391 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00277 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00281 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00509 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00270 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00458 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00461 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00384 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00277 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 2 iterations
+Time Elapsed: 0.00242 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00300 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00360 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00312 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00498 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00337 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00396 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00280 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00305 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00184 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00348 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00269 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00195 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00359 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00369 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00420 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00275 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00415 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00191 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00229 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00497 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00244 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00376 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 6 iterations
+Time Elapsed: 0.00368 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00456 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00236 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00274 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 6 iterations
+Time Elapsed: 0.00372 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00478 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 3 iterations
+Time Elapsed: 0.00183 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 5 iterations
+Time Elapsed: 0.00474 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00238 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00228 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 4 iterations
+Time Elapsed: 0.00433 seconds.
+Attempting to gather 'dense' from './data/graves'
+
+Loaded './data/graves/dense' n=200 d=2 k=2
+
+Items per process:  100
+Converged successfully in 6 iterations
+Time Elapsed: 0.00367 seconds.
+Wheeler Portable Batch System Epilogue

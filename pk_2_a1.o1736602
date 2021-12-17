@@ -1,0 +1,30 @@
+Wheeler Portable Batch System Prologue
+Job Id: 1736602.wheeler-sn.alliance.unm.edu
+Username: neliving
+Job 1736602.wheeler-sn.alliance.unm.edu running on nodes:
+wheeler295 
+
+prologue running on host: wheeler295
+
+Matrix Name:  dense
+Processes:      
+Matrix Path:    ./data/sipu
+
+Running program for 100 iterations.
+Attempting to gather 'dense' from './data/sipu'
+
+Traceback (most recent call last):
+  File "parallel_kmeans.py", line 86, in <module>
+    data, labels, k = get_data() # Gather data from matrix
+  File "/users/neliving/cs491/parallel-kmeans/get_data.py", line 24, in get_data
+    data    = np.loadtxt(dataset+".data.gz", ndmin=2)
+  File "/users/neliving/.conda/envs/kmeans_proj/lib/python3.7/site-packages/numpy/lib/npyio.py", line 1067, in loadtxt
+    fh = np.lib._datasource.open(fname, 'rt', encoding=encoding)
+  File "/users/neliving/.conda/envs/kmeans_proj/lib/python3.7/site-packages/numpy/lib/_datasource.py", line 193, in open
+    return ds.open(path, mode, encoding=encoding, newline=newline)
+  File "/users/neliving/.conda/envs/kmeans_proj/lib/python3.7/site-packages/numpy/lib/_datasource.py", line 533, in open
+    raise IOError("%s not found." % path)
+OSError: ./data/sipu/dense.data.gz not found.
+Wheeler Portable Batch System Epilogue
+wheeler295: grep: sethm: No such file or directory
+wheeler295: grep: sgoodfel: No such file or directory

@@ -1,0 +1,1267 @@
+Wheeler Portable Batch System Prologue
+Job Id: 1736573.wheeler-sn.alliance.unm.edu
+Username: neliving
+Job 1736573.wheeler-sn.alliance.unm.edu running on nodes:
+wheeler170 
+
+prologue running on host: wheeler170
+
+Matrix Name:  twodiamonds
+Matrix Path:    ./data/fcps
+
+Running program for 100 iterations.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 9.99562633e-01  4.37970603e-03]
+ [ 3.07850000e+00 -1.98144776e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.0005073  -0.00689744]
+ [ 0.94950754  0.01043374]]
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.07557569e+00 -1.72839206e-03]
+ [ 9.97294529e-01  4.13884887e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.01 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.31381874  0.07169625]
+ [ 3.21098737 -0.11145445]]
+[[ 1.03312531e+00  4.18101220e-03]
+ [ 3.10718347e+00 -1.96829231e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.11424055  0.00682579]
+ [ 3.15817047 -0.00557545]]
+[[ 1.01254395e+00  4.46696030e-03]
+ [ 3.09150558e+00 -2.15013602e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 2.818091    0.0096842 ]
+ [ 0.85272633 -0.01190557]]
+[[ 3.07266585e+00 -1.97163861e-03]
+ [ 9.95014970e-01  4.40182576e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.44520657 -0.08760011]
+ [ 3.267327    0.18246327]]
+[[1.05779110e+00 1.90995215e-03]
+ [3.12362892e+00 3.88013089e-04]]
+[[ 1.00707741e+00  4.41122444e-03]
+ [ 3.08657867e+00 -2.06095238e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 4 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 9.60574958e-01  4.75591557e-03]
+ [ 3.01977440e+00 -2.03304276e-03]]
+[[ 1.00187479e+00  4.43333584e-03]
+ [ 3.08138377e+00 -2.05067332e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 9.72343818e-01 -2.24746615e-03]
+ [ 3.03366083e+00  4.35001923e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.01 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.01545845e+00  4.70342822e-03]
+ [ 3.09378211e+00 -2.40809091e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[3.04759849e+00 9.02337379e-04]
+ [9.78794727e-01 1.48148969e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.02479405 -0.00812737]
+ [ 0.9658641   0.01142243]]
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.11927613 -0.00503738]
+ [ 1.05187715  0.00692532]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 2.986792   -0.01126852]
+ [ 0.94329425  0.01572713]]
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.20330086  0.01283755]
+ [ 3.20550992 -0.01491083]]
+[[ 1.01835855e+00  4.44490123e-03]
+ [ 3.09607017e+00 -2.16102278e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.01 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.02130820e+00  4.70543842e-03]
+ [ 3.09830406e+00 -2.44626142e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.01 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.07266585e+00 -1.97163861e-03]
+ [ 9.95014970e-01  4.40182576e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08904119e+00 -2.10750251e-03]
+ [ 1.00981228e+00  4.44121144e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.03014970e+00  4.32443032e-03]
+ [ 3.10499157e+00 -2.10258568e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.01 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 0.48428533 -0.13368249]
+ [ 2.2696282   0.02067026]]
+[[ 8.58569175e-01  5.60021562e-03]
+ [ 2.83466832e+00 -1.76143333e-03]]
+[[ 9.95014970e-01  4.40182576e-03]
+ [ 3.07266585e+00 -1.97163861e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 4 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00187479e+00  4.43333584e-03]
+ [ 3.08138377e+00 -2.05067332e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.01 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.28404062 -0.02195737]
+ [ 3.24581622  0.0377603 ]]
+[[ 1.03312531e+00  4.18101220e-03]
+ [ 3.10718347e+00 -1.96829231e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.00074149 -0.00525809]
+ [ 0.94923945  0.00855707]]
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.01254395e+00  4.46696030e-03]
+ [ 3.09150558e+00 -2.15013602e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.07557569e+00 -2.22466998e-03]
+ [ 9.97294529e-01  4.64262720e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.00081996e+00 -2.78593911e-03]
+ [ 9.49149619e-01  5.72701609e-03]]
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.02130820e+00  4.70543842e-03]
+ [ 3.09830406e+00 -2.44626142e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.03618340e+00  4.65745742e-03]
+ [ 3.10928420e+00 -2.48749100e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 2.6157426  -0.08246662]
+ [ 0.79418424  0.18414645]]
+[[ 3.01653897 -0.00490024]
+ [ 0.95873938  0.00797482]]
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 4 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.08872976e+00  3.82579907e-03]
+ [ 3.14356611e+00 -1.85715323e-03]]
+[[ 1.01254395e+00  4.46696030e-03]
+ [ 3.09150558e+00 -2.15013602e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.09378211e+00 -1.90304040e-03]
+ [ 1.01545845e+00  4.20837871e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.07557569e+00 -1.72839206e-03]
+ [ 9.97294529e-01  4.13884887e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.01842254e+00  4.96397037e-03]
+ [ 3.09600456e+00 -2.69323291e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 0.91716114  0.01379816]
+ [ 2.94334994 -0.00888037]]
+[[ 1.00187479e+00  4.43333584e-03]
+ [ 3.08138377e+00 -2.05067332e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.13188012e+00 -2.03106349e-03]
+ [ 1.06998163e+00  4.06237678e-03]]
+[[ 3.08657867e+00 -2.06095238e-03]
+ [ 1.00707741e+00  4.41122444e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 2.93646682 -0.0129604 ]
+ [ 0.91439734  0.01909314]]
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.06952346e+00 -2.46059753e-03]
+ [ 9.92977033e-01  4.91929873e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00187479e+00  4.43333584e-03]
+ [ 3.08138377e+00 -2.05067332e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[3.04759849e+00 9.02337379e-04]
+ [9.78794727e-01 1.48148969e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.14572484e+00  4.04962108e-03]
+ [ 3.17624195e+00 -2.42810734e-03]]
+[[ 1.01254395e+00  4.46696030e-03]
+ [ 3.09150558e+00 -2.15013602e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00707741e+00  4.41122444e-03]
+ [ 3.08657867e+00 -2.06095238e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 9.72347421e-01  3.98962078e-03]
+ [ 3.03862451e+00 -1.42029639e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 9.78536995e-01  2.77014948e-03]
+ [ 3.04784120e+00 -3.11254854e-04]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.01139623 -0.01078373]
+ [ 0.95905126  0.01461034]]
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 0.84905084  0.07984677]
+ [ 2.78065136 -0.04728623]]
+[[ 9.92923777e-01  4.17677722e-03]
+ [ 3.06957540e+00 -1.73640988e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00707741e+00  4.41122444e-03]
+ [ 3.08657867e+00 -2.06095238e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.01 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 0.9870085   0.00613344]
+ [ 3.05998921 -0.00357286]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.01 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.02814180e+00  2.79722488e-03]
+ [ 9.67590725e-01 -5.82876963e-04]]
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.01254395e+00  4.46696030e-03]
+ [ 3.09150558e+00 -2.15013602e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.10928420e+00 -2.48749100e-03]
+ [ 1.03618340e+00  4.65745742e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.01 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.05187715  0.00692532]
+ [ 3.11927613 -0.00503738]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.18736116 -0.01658036]
+ [ 3.19172959  0.02497189]]
+[[ 1.01545845e+00  4.20837871e-03]
+ [ 3.09378211e+00 -1.90304040e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 9.99618191e-01  4.19321859e-03]
+ [ 3.07844500e+00 -1.79681592e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.09822685e+00  4.78716937e-03]
+ [ 3.14917929e+00 -3.02625745e-03]]
+[[ 1.01254395e+00  4.46696030e-03]
+ [ 3.09150558e+00 -2.15013602e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.07557569e+00 -1.72839206e-03]
+ [ 9.97294529e-01  4.13884887e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.0005073  -0.00689744]
+ [ 0.94950754  0.01043374]]
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[9.53299285e-01 2.46450133e-03]
+ [3.00681341e+00 5.26894118e-05]]
+[[ 1.00187479e+00  4.43333584e-03]
+ [ 3.08138377e+00 -2.05067332e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.09805026 -0.00320768]
+ [ 1.0215545   0.00544435]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.06314456 -0.00333002]
+ [ 0.9890155   0.00585725]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.01 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00187479e+00  4.43333584e-03]
+ [ 3.08138377e+00 -2.05067332e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.06328126e+00 -7.24486486e-04]
+ [ 9.88873941e-01  3.15889822e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.11562969e+00 -8.45580311e-04]
+ [ 1.04528954e+00  3.07481884e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 2.98440411 -0.00863686]
+ [ 0.94054444  0.01271115]]
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.01254395e+00  4.46696030e-03]
+ [ 3.09150558e+00 -2.15013602e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.12595905e+00 -2.87457743e-03]
+ [ 1.06060270e+00  4.87301909e-03]]
+[[ 3.08657867e+00 -2.06095238e-03]
+ [ 1.00707741e+00  4.41122444e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08657867e+00 -2.06095238e-03]
+ [ 1.00707741e+00  4.41122444e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.28025024 -0.12709266]
+ [ 1.41103047  0.06689734]]
+[[ 3.12595905e+00 -2.87457743e-03]
+ [ 1.06060270e+00  4.87301909e-03]]
+[[ 3.08657867e+00 -2.06095238e-03]
+ [ 1.00707741e+00  4.41122444e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 4 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.01254395e+00  4.46696030e-03]
+ [ 3.09150558e+00 -2.15013602e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.11738191 -0.00424507]
+ [ 1.04865276  0.00621912]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.6769741  -0.02350398]
+ [ 3.49057686  0.09840814]]
+[[1.16478785e+00 3.11190265e-04]
+ [3.18649087e+00 2.31587069e-03]]
+[[ 1.01254395e+00  4.46696030e-03]
+ [ 3.09150558e+00 -2.15013602e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 4 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.15451509 -0.00571923]
+ [ 1.10790416  0.00700419]]
+[[ 3.09150558e+00 -2.15013602e-03]
+ [ 1.01254395e+00  4.46696030e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 0.97708195  0.0079591 ]
+ [ 3.04419423 -0.00516608]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 2.93860804 -0.01652622]
+ [ 0.91741171  0.02349513]]
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.15662979 -0.01421892]
+ [ 3.17389996  0.02078595]]
+[[ 1.01254395e+00  4.46696030e-03]
+ [ 3.09150558e+00 -2.15013602e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.01 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.13582629 -0.00363761]
+ [ 1.07620813  0.00545831]]
+[[ 3.08657867e+00 -2.06095238e-03]
+ [ 1.00707741e+00  4.41122444e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.01 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.01 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00187479e+00  4.43333584e-03]
+ [ 3.08138377e+00 -2.05067332e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.09150558e+00 -2.15013602e-03]
+ [ 1.01254395e+00  4.46696030e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[3.05292181e+00 2.07445610e-03]
+ [9.83807662e-01 2.46292308e-04]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 9.76476041e-01  4.86149096e-03]
+ [ 3.04476199e+00 -2.26347700e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.01 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 2.97704256 -0.01299247]
+ [ 0.93810508  0.01799266]]
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.12147246 -0.00472803]
+ [ 1.05481769  0.00661251]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[3.11958312e+00 1.86210938e-04]
+ [1.05159378e+00 2.10354808e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.07266585e+00 -1.97163861e-03]
+ [ 9.95014970e-01  4.40182576e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.07241832e+00 -2.71421287e-03]
+ [ 9.95267495e-01  5.15940152e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Wheeler Portable Batch System Epilogue
