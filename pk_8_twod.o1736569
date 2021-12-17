@@ -1,0 +1,714 @@
+Wheeler Portable Batch System Prologue
+Job Id: 1736569.wheeler-sn.alliance.unm.edu
+Username: neliving
+Job 1736569.wheeler-sn.alliance.unm.edu running on nodes:
+wheeler004 wheeler003 
+
+prologue running on host: wheeler004
+
+Matrix Name:  twodiamonds
+Processes:      
+Matrix Path:    ./data/fcps
+
+Running program for 100 iterations.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00872 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00573 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 4 iterations
+Time Elapsed: 0.00653 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.01028 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00384 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00282 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00324 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.01259 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00323 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00643 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00373 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00360 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00669 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00326 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00280 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00553 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00278 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00518 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00344 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00345 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00279 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00774 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00354 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00349 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00673 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00277 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00362 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00765 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00336 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00363 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00893 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00270 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00558 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00315 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 4 iterations
+Time Elapsed: 0.00287 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00471 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00270 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00314 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00548 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00639 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00327 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00608 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00379 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Reached max iterations
+Time Elapsed: 0.18970 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 4 iterations
+Time Elapsed: 0.00228 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00361 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 4 iterations
+Time Elapsed: 0.00228 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00571 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00369 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00362 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00514 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00328 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00281 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00561 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00318 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00582 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00283 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00725 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00368 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.01370 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00375 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00372 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00641 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00283 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00373 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00538 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00361 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00275 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00908 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00361 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00573 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00273 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00339 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00682 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00323 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00579 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00315 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00904 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00308 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00279 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00872 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00324 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00381 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00816 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 4 iterations
+Time Elapsed: 0.00223 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00324 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00908 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00282 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00275 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00475 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00266 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00283 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00538 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00270 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00279 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00525 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00268 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 6 iterations
+Time Elapsed: 0.00865 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 5 iterations
+Time Elapsed: 0.00612 seconds.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+Items per process:  50
+Converged successfully in 7 iterations
+Time Elapsed: 0.00359 seconds.
+Wheeler Portable Batch System Epilogue

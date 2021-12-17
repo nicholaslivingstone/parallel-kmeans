@@ -1,0 +1,714 @@
+Wheeler Portable Batch System Prologue
+Job Id: 1736610.wheeler-sn.alliance.unm.edu
+Username: neliving
+Job 1736610.wheeler-sn.alliance.unm.edu running on nodes:
+wheeler102 
+
+prologue running on host: wheeler102
+
+Matrix Name:  a2
+Processes:      
+Matrix Path:    ./data/sipu
+
+Running program for 100 iterations.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 55 iterations
+Time Elapsed: 0.54024 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 25 iterations
+Time Elapsed: 0.24515 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 16 iterations
+Time Elapsed: 0.16903 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 15 iterations
+Time Elapsed: 0.15192 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 16 iterations
+Time Elapsed: 0.17003 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 25 iterations
+Time Elapsed: 0.25273 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 13 iterations
+Time Elapsed: 0.14535 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 19 iterations
+Time Elapsed: 0.19140 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 18 iterations
+Time Elapsed: 0.18496 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 13 iterations
+Time Elapsed: 0.13097 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 17 iterations
+Time Elapsed: 0.17397 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 17 iterations
+Time Elapsed: 0.17711 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 34 iterations
+Time Elapsed: 0.34657 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 20 iterations
+Time Elapsed: 0.21032 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 15 iterations
+Time Elapsed: 0.15640 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 15 iterations
+Time Elapsed: 0.15516 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 14 iterations
+Time Elapsed: 0.15239 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 19 iterations
+Time Elapsed: 0.19124 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 14 iterations
+Time Elapsed: 0.15105 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 33 iterations
+Time Elapsed: 0.32645 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 27 iterations
+Time Elapsed: 0.27584 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 22 iterations
+Time Elapsed: 0.21902 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 19 iterations
+Time Elapsed: 0.19095 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 18 iterations
+Time Elapsed: 0.18927 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 19 iterations
+Time Elapsed: 0.19473 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 15 iterations
+Time Elapsed: 0.15597 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 17 iterations
+Time Elapsed: 0.18456 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 17 iterations
+Time Elapsed: 0.17721 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 17 iterations
+Time Elapsed: 0.17062 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 15 iterations
+Time Elapsed: 0.15997 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 17 iterations
+Time Elapsed: 0.17782 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 24 iterations
+Time Elapsed: 0.24105 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 21 iterations
+Time Elapsed: 0.20080 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 11 iterations
+Time Elapsed: 0.12537 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 13 iterations
+Time Elapsed: 0.13977 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 26 iterations
+Time Elapsed: 0.25650 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 20 iterations
+Time Elapsed: 0.20964 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 19 iterations
+Time Elapsed: 0.19798 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 17 iterations
+Time Elapsed: 0.17332 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 23 iterations
+Time Elapsed: 0.23536 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 50 iterations
+Time Elapsed: 0.48667 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 42 iterations
+Time Elapsed: 0.40623 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 13 iterations
+Time Elapsed: 0.13667 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 50 iterations
+Time Elapsed: 0.47061 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 15 iterations
+Time Elapsed: 0.15526 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 15 iterations
+Time Elapsed: 0.15757 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 9 iterations
+Time Elapsed: 0.09436 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 14 iterations
+Time Elapsed: 0.14375 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 32 iterations
+Time Elapsed: 0.31961 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 17 iterations
+Time Elapsed: 0.17144 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 27 iterations
+Time Elapsed: 0.26665 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 12 iterations
+Time Elapsed: 0.12965 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 27 iterations
+Time Elapsed: 0.27696 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 14 iterations
+Time Elapsed: 0.14493 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 15 iterations
+Time Elapsed: 0.15735 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 15 iterations
+Time Elapsed: 0.16704 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 14 iterations
+Time Elapsed: 0.15286 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 17 iterations
+Time Elapsed: 0.17599 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 27 iterations
+Time Elapsed: 0.26860 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 31 iterations
+Time Elapsed: 0.30326 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 19 iterations
+Time Elapsed: 0.19081 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 18 iterations
+Time Elapsed: 0.18234 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 22 iterations
+Time Elapsed: 0.21804 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 23 iterations
+Time Elapsed: 0.23569 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 28 iterations
+Time Elapsed: 0.28022 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 11 iterations
+Time Elapsed: 0.11939 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 19 iterations
+Time Elapsed: 0.19918 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 45 iterations
+Time Elapsed: 0.44419 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 13 iterations
+Time Elapsed: 0.13259 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 32 iterations
+Time Elapsed: 0.31157 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 33 iterations
+Time Elapsed: 0.33051 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 26 iterations
+Time Elapsed: 0.24795 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 22 iterations
+Time Elapsed: 0.21601 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 15 iterations
+Time Elapsed: 0.14974 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 62 iterations
+Time Elapsed: 0.60082 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 31 iterations
+Time Elapsed: 0.29775 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 23 iterations
+Time Elapsed: 0.23600 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 25 iterations
+Time Elapsed: 0.24403 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 17 iterations
+Time Elapsed: 0.18076 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 13 iterations
+Time Elapsed: 0.14291 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 17 iterations
+Time Elapsed: 0.18370 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 50 iterations
+Time Elapsed: 0.47182 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 21 iterations
+Time Elapsed: 0.21571 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 23 iterations
+Time Elapsed: 0.24993 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 23 iterations
+Time Elapsed: 0.24506 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 16 iterations
+Time Elapsed: 0.16912 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 23 iterations
+Time Elapsed: 0.24132 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 16 iterations
+Time Elapsed: 0.16323 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 25 iterations
+Time Elapsed: 0.25045 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 24 iterations
+Time Elapsed: 0.23270 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 16 iterations
+Time Elapsed: 0.16931 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Reached max iterations
+Time Elapsed: 2.80080 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 28 iterations
+Time Elapsed: 0.27959 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 21 iterations
+Time Elapsed: 0.21258 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 13 iterations
+Time Elapsed: 0.14224 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 38 iterations
+Time Elapsed: 0.36845 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 15 iterations
+Time Elapsed: 0.15548 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 23 iterations
+Time Elapsed: 0.23286 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 25 iterations
+Time Elapsed: 0.25064 seconds.
+Attempting to gather 'a2' from './data/sipu'
+
+Loaded './data/sipu/a2' n=5250 d=2 k=35
+
+Items per process:  2625
+Converged successfully in 17 iterations
+Time Elapsed: 0.17809 seconds.
+Wheeler Portable Batch System Epilogue

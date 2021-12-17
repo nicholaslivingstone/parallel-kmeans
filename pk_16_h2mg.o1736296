@@ -1,0 +1,714 @@
+Wheeler Portable Batch System Prologue
+Job Id: 1736296.wheeler-sn.alliance.unm.edu
+Username: neliving
+Job 1736296.wheeler-sn.alliance.unm.edu running on nodes:
+wheeler087 wheeler083 
+
+prologue running on host: wheeler087
+
+Matrix Name:  h2mg_2_10
+Processes:      16
+Matrix Path:    ./data/h2mg
+
+Running program for 100 iterations.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00766 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00325 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00736 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00269 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00600 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00271 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00298 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00710 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00461 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00721 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00271 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00440 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00277 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00303 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00677 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00454 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00354 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00264 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00517 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00418 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00497 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00326 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00471 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00305 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00290 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00448 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00516 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00653 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00298 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00524 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00325 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00536 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00396 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00492 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00352 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00645 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00337 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00294 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00493 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00430 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00480 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00337 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00558 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00492 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00270 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00504 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00264 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00474 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00463 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00505 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00367 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00520 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00363 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00718 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00319 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00486 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00424 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00481 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00368 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00435 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00486 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00507 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00272 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.04942 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00341 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00616 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00280 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00649 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00401 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00942 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00356 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00522 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00383 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00469 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00270 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00277 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00688 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00411 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00488 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00298 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00526 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00347 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00713 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00285 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00290 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00578 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00310 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00298 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00611 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00288 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00477 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00748 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00495 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00306 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00465 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00673 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00477 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00419 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00308 seconds.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+Items per process:  128
+Converged successfully in 3 iterations
+Time Elapsed: 0.00495 seconds.
+Wheeler Portable Batch System Epilogue

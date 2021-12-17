@@ -1,0 +1,1644 @@
+Wheeler Portable Batch System Prologue
+Job Id: 1736570.wheeler-sn.alliance.unm.edu
+Username: neliving
+Job 1736570.wheeler-sn.alliance.unm.edu running on nodes:
+wheeler276 
+
+prologue running on host: wheeler276
+
+Matrix Name:  twodiamonds
+Matrix Path:    ./data/fcps
+
+Running program for 100 iterations.
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 2.97107523e+00  3.20308486e-03]
+ [ 9.34049802e-01 -1.23616484e-03]]
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 9.95014970e-01  4.40182576e-03]
+ [ 3.07266585e+00 -1.97163861e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.19780394 -0.03604521]
+ [ 3.17774481  0.05103885]]
+[[ 1.01545845e+00  4.20837871e-03]
+ [ 3.09378211e+00 -1.90304040e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 9.97294529e-01  4.13884887e-03]
+ [ 3.07557569e+00 -1.72839206e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.01975223 -0.00433856]
+ [ 0.96059959  0.00731692]]
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[1.07021338e+00 2.10723934e-03]
+ [3.13162139e+00 1.51656085e-04]]
+[[ 1.00707741e+00  4.41122444e-03]
+ [ 3.08657867e+00 -2.06095238e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.12419843e+00 -1.32283827e-03]
+ [ 3.16304659e+00  4.23076731e-03]]
+[[ 1.01254395e+00  4.46696030e-03]
+ [ 3.09150558e+00 -2.15013602e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 0.91947319  0.03360327]
+ [ 2.93245837 -0.02441918]]
+[[ 1.00187479e+00  4.43333584e-03]
+ [ 3.08138377e+00 -2.05067332e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.23989444  0.00906191]
+ [ 3.22590486 -0.01039163]]
+[[ 1.02719158e+00  4.51990441e-03]
+ [ 3.10277747e+00 -2.28964286e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.02724341e+00  4.06487500e-03]
+ [ 3.10272352e+00 -1.81604082e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00981228e+00  4.44121144e-03]
+ [ 3.08904119e+00 -2.10750251e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.04828884e+00  3.54933735e-03]
+ [ 3.11777418e+00 -1.36725714e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.09150558e+00 -2.15013602e-03]
+ [ 1.01254395e+00  4.46696030e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.11790940e+00 -1.15659497e-03]
+ [ 3.15938436e+00  4.00003581e-03]]
+[[ 1.01254395e+00  4.46696030e-03]
+ [ 3.09150558e+00 -2.15013602e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.20224921 -0.01657243]
+ [ 3.20101349  0.0255775 ]]
+[[ 1.01835855e+00  4.44490123e-03]
+ [ 3.09607017e+00 -2.16102278e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 9.95014970e-01  4.40182576e-03]
+ [ 3.07266585e+00 -1.97163861e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 2.90506064 -0.01355635]
+ [ 0.89728926  0.02082167]]
+[[ 3.07557569e+00 -2.22466998e-03]
+ [ 9.97294529e-01  4.64262720e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.04 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.14744254e+00  5.80384824e-03]
+ [ 1.09971376e+00 -2.77271230e-03]]
+[[ 3.09150558e+00 -2.15013602e-03]
+ [ 1.01254395e+00  4.46696030e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.09150558e+00 -2.15013602e-03]
+ [ 1.01254395e+00  4.46696030e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.01254395e+00  4.46696030e-03]
+ [ 3.09150558e+00 -2.15013602e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 9.95267495e-01  5.15940152e-03]
+ [ 3.07241832e+00 -2.71421287e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.05087413 -0.00326812]
+ [ 0.98065208  0.00588632]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.13781516e+00 -2.84731200e-03]
+ [ 1.07929940e+00  4.73958353e-03]]
+[[ 3.08904119e+00 -2.10750251e-03]
+ [ 1.00981228e+00  4.44121144e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.01254395e+00  4.46696030e-03]
+ [ 3.09150558e+00 -2.15013602e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.14557232 -0.01085709]
+ [ 1.09656087  0.0115435 ]]
+[[ 3.09150558e+00 -2.15013602e-03]
+ [ 1.01254395e+00  4.46696030e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.18007919  0.01918498]
+ [ 3.18972912 -0.02267956]]
+[[ 1.01254395e+00  4.46696030e-03]
+ [ 3.09150558e+00 -2.15013602e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.05135339e+00  3.30547115e-03]
+ [ 3.11984354e+00 -1.11587240e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.02289815  0.00717636]
+ [ 0.9679491  -0.00540765]]
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 9.32952113e-01  5.71742033e-03]
+ [ 2.97199165e+00 -2.60220183e-03]]
+[[ 1.00187479e+00  4.43333584e-03]
+ [ 3.08138377e+00 -2.05067332e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.04784120e+00 -3.11254854e-04]
+ [ 9.78536995e-01  2.77014948e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.09831443  0.00618122]
+ [ 3.14907699 -0.00465454]]
+[[ 1.01254395e+00  4.46696030e-03]
+ [ 3.09150558e+00 -2.15013602e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[3.00986209e+00 6.30761792e-04]
+ [9.55322883e-01 1.80621809e-03]]
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.07266585e+00 -1.97163861e-03]
+ [ 9.95014970e-01  4.40182576e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 9.92977033e-01  4.91929873e-03]
+ [ 3.06952346e+00 -2.46059753e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.06007959 -0.00326981]
+ [ 0.98691444  0.00581802]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.04 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.09150558e+00 -2.15013602e-03]
+ [ 1.01254395e+00  4.46696030e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.06957540e+00 -1.73640988e-03]
+ [ 9.92923777e-01  4.17677722e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.07266585e+00 -1.97163861e-03]
+ [ 9.95014970e-01  4.40182576e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.13677041e+00  2.86532533e-03]
+ [ 1.08022124e+00 -3.00978824e-04]]
+[[ 3.08904119e+00 -2.10750251e-03]
+ [ 1.00981228e+00  4.44121144e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.02163978 -0.00834611]
+ [ 0.96393217  0.01171565]]
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.09150558e+00 -2.15013602e-03]
+ [ 1.01254395e+00  4.46696030e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00187479e+00  4.43333584e-03]
+ [ 3.08138377e+00 -2.05067332e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.01254395e+00  4.46696030e-03]
+ [ 3.09150558e+00 -2.15013602e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[9.72883260e-01 1.33672987e-03]
+ [3.03812741e+00 1.04081928e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 9.80755304e-01 -1.81569845e-03]
+ [ 3.04575212e+00  4.00745631e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.10347494  0.01334191]
+ [ 3.14859173 -0.01309001]]
+[[ 1.01254395e+00  4.46696030e-03]
+ [ 3.09150558e+00 -2.15013602e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.01545845e+00  4.70342822e-03]
+ [ 3.09378211e+00 -2.40809091e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.11593847 -0.00723297]
+ [ 1.04999185  0.00899103]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.04889373  0.00694201]
+ [ 3.11712217 -0.00502429]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 2.99666138e+00  2.30823131e-03]
+ [ 9.48418981e-01 -1.11134409e-04]]
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.09830406e+00 -2.44626142e-03]
+ [ 1.02130820e+00  4.70543842e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.07557569e+00 -1.72839206e-03]
+ [ 9.97294529e-01  4.13884887e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.01254395e+00  4.46696030e-03]
+ [ 3.09150558e+00 -2.15013602e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 9.97294529e-01  4.64262720e-03]
+ [ 3.07557569e+00 -2.22466998e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.10499157e+00 -2.10258568e-03]
+ [ 1.03014970e+00  4.32443032e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.03802244  0.00663855]
+ [ 0.97834621 -0.00466782]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.0997939   0.01198075]
+ [ 3.14734893 -0.01142851]]
+[[ 1.01254395e+00  4.46696030e-03]
+ [ 3.09150558e+00 -2.15013602e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08657867e+00 -2.06095238e-03]
+ [ 1.00707741e+00  4.41122444e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.35390813  0.34039721]
+ [ 1.70391825 -0.08695899]]
+[[ 3.18951168  0.01444285]
+ [ 1.17582725 -0.00887078]]
+[[ 3.09150558e+00 -2.15013602e-03]
+ [ 1.01254395e+00  4.46696030e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 4 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 9.95014970e-01  4.40182576e-03]
+ [ 3.07266585e+00 -1.97163861e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 0.95286703  0.00713073]
+ [ 3.00719481 -0.00406457]]
+[[ 1.00187479e+00  4.43333584e-03]
+ [ 3.08138377e+00 -2.05067332e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 9.88784372e-01  3.63509160e-03]
+ [ 3.06336774e+00 -1.18429975e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.05135339e+00  3.30547115e-03]
+ [ 3.11984354e+00 -1.11587240e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.12595905e+00 -2.87457743e-03]
+ [ 1.06060270e+00  4.87301909e-03]]
+[[ 3.08657867e+00 -2.06095238e-03]
+ [ 1.00707741e+00  4.41122444e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 9.95014970e-01  4.40182576e-03]
+ [ 3.07266585e+00 -1.97163861e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.18141278 -0.05735305]
+ [ 1.20799132  0.04422834]]
+[[ 3.09378211e+00 -2.40809091e-03]
+ [ 1.01545845e+00  4.70342822e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.0215545   0.00544435]
+ [ 3.09805026 -0.00320768]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 0.92812779  0.01564396]
+ [ 2.96202459 -0.01070817]]
+[[ 1.00187479e+00  4.43333584e-03]
+ [ 3.08138377e+00 -2.05067332e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.11491133  0.01053298]
+ [ 3.15736701 -0.01001593]]
+[[ 1.01254395e+00  4.46696030e-03]
+ [ 3.09150558e+00 -2.15013602e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 1.03312531e+00  4.18101220e-03]
+ [ 3.10718347e+00 -1.96829231e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.08138377e+00 -2.05067332e-03]
+ [ 1.00187479e+00  4.43333584e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.20060166 -0.02129697]
+ [ 1.19822418  0.01762978]]
+[[ 3.09607017e+00 -2.16102278e-03]
+ [ 1.01835855e+00  4.44490123e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[1.05483617e+00 1.43491607e-03]
+ [3.12145235e+00 9.09193211e-04]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 9.97294529e-01  4.64262720e-03]
+ [ 3.07557569e+00 -2.22466998e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 3.09830406e+00 -2.44626142e-03]
+ [ 1.02130820e+00  4.70543842e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+[[ 3.08408723e+00 -2.05580000e-03]
+ [ 1.00437010e+00  4.42225250e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 0.90859278  0.01520051]
+ [ 2.92750102 -0.0097191 ]]
+[[ 9.99562633e-01  4.37970603e-03]
+ [ 3.07850000e+00 -1.98144776e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 3 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'twodiamonds' from './data/fcps'
+
+Loaded './data/fcps/twodiamonds' n=800 d=2 k=2
+
+[[ 9.95267495e-01  3.64425000e-03]
+ [ 3.07241832e+00 -1.22906436e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+[[ 1.00437010e+00  4.42225250e-03]
+ [ 3.08408723e+00 -2.05580000e-03]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Wheeler Portable Batch System Epilogue
+wheeler276: grep: tang: No such file or directory

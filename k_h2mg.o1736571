@@ -1,0 +1,1449 @@
+Wheeler Portable Batch System Prologue
+Job Id: 1736571.wheeler-sn.alliance.unm.edu
+Username: neliving
+Job 1736571.wheeler-sn.alliance.unm.edu running on nodes:
+wheeler006 
+
+prologue running on host: wheeler006
+
+Matrix Name:  h2mg_2_10
+Matrix Path:    ./data/h2mg
+
+Running program for 100 iterations.
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.09090909 499.2228739 ]
+ [599.75804878 600.14634146]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.71150097 600.06822612]
+ [500.04011742 499.20254403]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.75804878 600.14634146]
+ [500.09090909 499.2228739 ]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.09090909 499.2228739 ]
+ [599.75804878 600.14634146]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.75804878 600.14634146]
+ [500.09090909 499.2228739 ]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.8572825  600.23655914]
+ [500.18634146 499.3297561 ]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.75804878 600.14634146]
+ [500.09090909 499.2228739 ]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.89138943 600.27592955]
+ [500.24951267 499.38888889]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.09090909 499.2228739 ]
+ [599.75804878 600.14634146]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.04011742 499.20254403]
+ [599.71150097 600.06822612]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.09090909 499.2228739 ]
+ [599.75804878 600.14634146]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.09090909 499.2228739 ]
+ [599.75804878 600.14634146]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.04011742 499.20254403]
+ [599.71150097 600.06822612]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.24951267 499.38888889]
+ [599.89138943 600.27592955]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.89138943 600.27592955]
+ [500.24951267 499.38888889]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.09090909 499.2228739 ]
+ [599.75804878 600.14634146]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.24951267 499.38888889]
+ [599.89138943 600.27592955]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.09090909 499.2228739 ]
+ [599.75804878 600.14634146]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 2 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+[[500.13574219 499.25976562]
+ [599.81054688 600.20800781]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.03 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Attempting to gather 'h2mg_2_10' from './data/h2mg'
+
+Loaded './data/h2mg/h2mg_2_10' n=2048 d=2 k=2
+
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+[[599.81054688 600.20800781]
+ [500.13574219 499.25976562]]
+Converged Successfully in 1 iterations. Diff = 0.0
+Time Elapsed: 0.02 seconds.
+Traceback (most recent call last):
+  File "serial_kmeans.py", line 60, in <module>
+    if not exists('serial_kmeans_results.csv'):
+NameError: name 'exists' is not defined
+Wheeler Portable Batch System Epilogue

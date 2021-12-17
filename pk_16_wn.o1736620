@@ -1,0 +1,714 @@
+Wheeler Portable Batch System Prologue
+Job Id: 1736620.wheeler-sn.alliance.unm.edu
+Username: neliving
+Job 1736620.wheeler-sn.alliance.unm.edu running on nodes:
+wheeler040 wheeler039 
+
+prologue running on host: wheeler040
+
+Matrix Name:  tetra
+Processes:      
+Matrix Path:    ./data/fcps
+
+Running program for 100 iterations.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 17 iterations
+Time Elapsed: 0.01131 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 5 iterations
+Time Elapsed: 0.00247 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 6 iterations
+Time Elapsed: 0.00273 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 9 iterations
+Time Elapsed: 0.00409 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00154 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00385 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 5 iterations
+Time Elapsed: 0.00239 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00188 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00194 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 6 iterations
+Time Elapsed: 0.00276 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 27 iterations
+Time Elapsed: 0.01360 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 12 iterations
+Time Elapsed: 0.00553 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00152 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 7 iterations
+Time Elapsed: 0.00335 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00157 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 8 iterations
+Time Elapsed: 0.00617 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 12 iterations
+Time Elapsed: 0.00557 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00155 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 27 iterations
+Time Elapsed: 0.01187 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Reached max iterations
+Time Elapsed: 0.14757 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 11 iterations
+Time Elapsed: 0.00547 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00203 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 6 iterations
+Time Elapsed: 0.00265 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00188 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 11 iterations
+Time Elapsed: 0.00513 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Reached max iterations
+Time Elapsed: 0.14239 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00151 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00155 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00196 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 5 iterations
+Time Elapsed: 0.00237 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00152 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 6 iterations
+Time Elapsed: 0.00278 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00159 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Reached max iterations
+Time Elapsed: 0.15039 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 34 iterations
+Time Elapsed: 0.02360 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00208 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00196 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00163 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00152 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00485 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 11 iterations
+Time Elapsed: 0.00516 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 5 iterations
+Time Elapsed: 0.00233 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00204 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 5 iterations
+Time Elapsed: 0.00236 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00251 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 7 iterations
+Time Elapsed: 0.00323 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00208 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 9 iterations
+Time Elapsed: 0.00403 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 5 iterations
+Time Elapsed: 0.00488 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 24 iterations
+Time Elapsed: 0.01040 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 21 iterations
+Time Elapsed: 0.00965 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00201 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00152 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 6 iterations
+Time Elapsed: 0.00280 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00365 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 6 iterations
+Time Elapsed: 0.00272 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 5 iterations
+Time Elapsed: 0.00227 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00194 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00191 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00574 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 26 iterations
+Time Elapsed: 0.01158 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00166 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 5 iterations
+Time Elapsed: 0.00241 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00160 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00209 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 5 iterations
+Time Elapsed: 0.00234 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00150 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 8 iterations
+Time Elapsed: 0.00357 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 6 iterations
+Time Elapsed: 0.00278 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00300 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00152 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 6 iterations
+Time Elapsed: 0.00268 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 5 iterations
+Time Elapsed: 0.00243 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 9 iterations
+Time Elapsed: 0.00431 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00153 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00204 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 10 iterations
+Time Elapsed: 0.00469 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 5 iterations
+Time Elapsed: 0.00241 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 12 iterations
+Time Elapsed: 0.00559 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 5 iterations
+Time Elapsed: 0.00529 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00202 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00552 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 5 iterations
+Time Elapsed: 0.00239 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 10 iterations
+Time Elapsed: 0.00466 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 13 iterations
+Time Elapsed: 0.01456 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00203 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 24 iterations
+Time Elapsed: 0.01049 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00205 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.09912 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00352 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00151 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 5 iterations
+Time Elapsed: 0.00225 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 4 iterations
+Time Elapsed: 0.00194 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 15 iterations
+Time Elapsed: 0.00675 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 8 iterations
+Time Elapsed: 0.00614 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 6 iterations
+Time Elapsed: 0.00279 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 21 iterations
+Time Elapsed: 0.01156 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 3 iterations
+Time Elapsed: 0.00170 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 5 iterations
+Time Elapsed: 0.00239 seconds.
+Attempting to gather 'tetra' from './data/fcps'
+
+Loaded './data/fcps/tetra' n=400 d=3 k=4
+
+Items per process:  25
+Converged successfully in 7 iterations
+Time Elapsed: 0.00359 seconds.
+Wheeler Portable Batch System Epilogue

@@ -1,0 +1,37 @@
+#!/bin/bash
+#PBS -l nodes=1:ppn=4
+#PBS -q default
+#PBS -j oe
+#PBS -M nlivingsto@unm.edu
+
+module load miniconda3-4.7.12.1-gcc-4.8.5-lmtvtik
+source activate kmeans_proj
+
+cd $PBS_O_WORKDIR
+
+# FLAGS
+# i : number of iterations to complete
+# p : matrix path
+# m : name of matrix/data
+
+while getopts i:m:p: flag
+do
+   case "${flag}" in
+      i) iters=${OPTARG};;
+      m) matrix=${OPTARG};;
+      p) path=${OPTARG};;
+   esac
+done
+
+
+# Output program info
+printf "\nMatrix Name:  ${matrix}\n"
+printf "Matrix Path:    ${path}\n\n"
+
+printf "Running program for ${iters} iterations.\n"
+
+for i in $(seq 1 $iters)
+do 
+    python serial_kmeans.py -dn ${matrix} -p ${path}
+done
+
